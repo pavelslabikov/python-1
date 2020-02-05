@@ -50,7 +50,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="D:\GitHub\python-1\Environment\Scripts\python.exe" />
+      <option name="SDK_HOME" value="C:\Users\Xiaomi\Desktop\Github\python-1\Environment\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -84,29 +84,35 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="176" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580453254399">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="331" y="139" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580907006694">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="331" y="139" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1580907006694" />
     <state x="414" y="176" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580453254399" />
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1580460580352">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1580907015599">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580907015599" />
     <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580460580352" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1580460580352">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1580907015599">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580907015599" />
     <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580460580352" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1580460580352">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1580907015599">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580907015599" />
     <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580460580352" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1580460580352">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1580907015599">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580907015599" />
     <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580460580352" />
-    <state x="461" y="163" key="SettingsEditor" timestamp="1580452908365">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="369" y="112" key="SettingsEditor" timestamp="1580906875170">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="369" y="112" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580906875170" />
     <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580452908365" />
   </component>
 </project>
